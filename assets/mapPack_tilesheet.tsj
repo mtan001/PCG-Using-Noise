@@ -1,0 +1,14 @@
+{ "columns":17,
+ "image":"mapPack_tilesheet.png",
+ "imageheight":768,
+ "imagewidth":1088,
+ "margin":0,
+ "name":"mapPack_tilesheet",
+ "spacing":0,
+ "tilecount":204,
+ "tiledversion":"1.10.2",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.10"
+}
